@@ -1,4 +1,4 @@
-# Minha API - teste GIT
+# Minha API
 
 Este pequeno projeto faz parte do material diático da Disciplina **Desenvolvimento Full Stack Básico** 
 
